@@ -1,7 +1,7 @@
 url: https://steward-api.injil-ai.com/healthz
-status: down
-code: 404
-responseTime: 581
-lastUpdated: 2026-06-04T11:11:11.738Z
+status: up
+code: 200
+responseTime: 609
+lastUpdated: 2026-06-04T12:22:57.283Z
 startTime: 2026-06-04T10:56:23.529Z
 generator: Upptime <https://github.com/upptime/upptime>
