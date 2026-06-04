@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/steward-api.injil-ai.com.ico",
     "slug": "steward-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "67.34%",
+    "uptimeDay": "67.34%",
+    "uptimeWeek": "67.34%",
+    "uptimeMonth": "67.34%",
+    "uptimeYear": "67.34%",
     "time": 573,
     "timeDay": 573,
     "timeWeek": 573,
     "timeMonth": 573,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-04": 0
+    }
   },
   {
     "name": "Steward Web",
