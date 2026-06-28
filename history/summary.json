@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/steward-api.injil-ai.com.ico",
     "slug": "steward-api",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 644,
-    "timeDay": 471,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 647,
+    "timeDay": 710,
     "timeWeek": 634,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2026-06-04": 49
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 492,
-    "timeWeek": 581,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "time": 639,
+    "timeDay": 1008,
+    "timeWeek": 638,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {}
   }
 ]
