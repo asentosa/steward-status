@@ -4,19 +4,20 @@
     "url": "https://steward-api.injil-ai.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/steward-api.injil-ai.com.ico",
     "slug": "steward-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 639,
-    "timeDay": 660,
-    "timeWeek": 629,
-    "timeMonth": 631,
-    "timeYear": 639,
+    "time": 638,
+    "timeDay": 614,
+    "timeWeek": 621,
+    "timeMonth": 629,
+    "timeYear": 638,
     "dailyMinutesDown": {
-      "2026-06-04": 49
+      "2026-06-04": 49,
+      "2026-07-21": 0
     }
   },
   {
